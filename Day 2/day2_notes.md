@@ -6,7 +6,7 @@ Stores multiple values
 
 Example:
 
-skills = ["Python", "SQL", "Git"]
+skills = ["Python", "SQL", "Git", "AWS"]
 
 ## Dictionary
 
