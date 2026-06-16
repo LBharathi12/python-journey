@@ -38,4 +38,5 @@ Questions:
 
 - What are lists?
 - What are dictionaries?
+- What are functions?
 - How does backend development use Python?
