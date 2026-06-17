@@ -1,0 +1,4 @@
+I am learning about file handling
+In write mode,everytime we run, Old content removed and new content is written
+Welcome to the course
+sanjana
